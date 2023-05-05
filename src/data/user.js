@@ -1,18 +1,18 @@
 const user = {
-  name: "Liza",
-  city: "New York",
+  name: "Derek",
+  city: "Nairobi",
   bio: "I made this!",
   color: "firebrick",
   links: {
-    github: "https://github.com/liza",
-    linkedin: "https://www.linkedin.com/in/liza/",
+    github: "https://github.com/dMuguti",
+    
   },
   projects: [
     {
       id: 1,
-      name: "Reciplease",
-      about: "A recipe tracking app",
-      technologies: ["Rails", "Bootstrap CSS"],
+      name: "Garihub",
+      about: "A car image app",
+      technologies: ["HTML", "Javascript, CSS"],
     },
     {
       id: 2,
